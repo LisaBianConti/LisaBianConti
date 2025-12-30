@@ -11,7 +11,8 @@
 </ul>
 <h3>🚀 Core Skills</h3>
 <p align="left">
-
+<ul>
+  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -23,7 +24,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-3F77B3?style=for-the-badge&logo=tableau&logoColor=white)
-
+</ul>
 
 </p>
 
