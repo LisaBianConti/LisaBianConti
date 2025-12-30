@@ -2,14 +2,14 @@
 
 <p>I’m Lisa, <strong>Data Analyst</strong> with a strong scientific background in <strong>Material Science</strong> and <strong>Geoscience</strong>.</p>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h3>⚡️ A Few Quick Facts</h3>
 <ul>
 <!-- <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>-->
 🌍 Career across China, Austria and Netherlands in international research and data-driven environments.
   
 🧐 Currently building skills in <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, and <strong>Microsoft Azure</strong>.
 </ul>
-<h2>🚀 Core Skills</h2>
+<h3>🚀 Core Skills</h3>
 <p align="left">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
