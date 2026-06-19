@@ -1,6 +1,6 @@
 <h1>Nice to meet you 🙋‍♀️</h1>
 
-<p>I’m Lisa, <strong>Data Scientiest</strong> with a strong scientific background in <strong>Material Science</strong> and <strong>Geoscience</strong>.</p>
+<p>I’m Lisa, <strong>Data Scientist</strong> with a strong scientific background in <strong>Material Science</strong> and <strong>Geoscience</strong>.</p>
 
 <h3>⚡️ A Few Quick Facts</h3>
 <ul>
